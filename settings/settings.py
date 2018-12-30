@@ -13,7 +13,7 @@ SECRET_KEY = 'b43uw*qiz1t$!_^26644vzr5&ky%n=jpi^q879eox7dq2j2gcc'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://monetimes.herokuapp.com']
+ALLOWED_HOSTS = ['monetimes.herokuapp.com']
 
 
 # Application definition
